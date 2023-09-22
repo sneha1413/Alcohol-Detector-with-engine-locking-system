@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 String agAdi = "OPPO F15";                 // We write the name of our network here.    
 String agSifresi = "sneha@14";           // We write the password of our network here.
-int rxPin = 10;                                               //ESP8266 RX pini
+int rxPin = 10;                                               //ESP8266 RX pini -Wi-Fi microchip
 int txPin = 13;
 String ip = "184.106.153.149"; 
 
